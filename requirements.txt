@@ -1,0 +1,8 @@
+lambeq[extras]==0.2.7
+discopy==0.4.3
+torch==1.13.1
+notebook
+pandas==2.0.2
+scikit-learn==1.2.2
+pennylane==0.28.*
+pennylane-qiskit==0.29.*
